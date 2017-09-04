@@ -10,7 +10,7 @@ Modification: When mouse is dragged the screen is redrawn to show the latest dev
 Uses: Point2D, Tools2D, Triangles
 
 By Devanshu Sheth
-dds160030
+
 
 */
 
